@@ -1,0 +1,195 @@
+
+    @media (max-width:600px){
+        .container {
+            width: 100%; 
+        }
+        .nav1{
+            flex-direction: column;
+        }
+        .logo{
+            margin-left: 20px;
+         
+        }
+        .text{
+            margin-left: 10px;
+            padding: 15px;
+            margin-top: 0px;
+        }
+        .nav2{
+            flex-direction: column;
+       
+        }
+        .nav2-ul{
+            flex-direction: column;
+    
+        }
+        .nav2-ul li {
+            padding:5px;
+        }
+        .box1{
+            margin-left: 0px;
+          
+        }
+        .box2{
+            margin-left: 15px;
+           padding-bottom: 10px;
+           padding-top: 10px;
+        }
+        .box2-ul li a{
+            padding: 8px;
+        }
+
+        /*-----images----*/
+        .sec1-img{
+            margin-left: 150px;
+        }
+        /*------para with images section---*/
+        .firstrow{
+            flex-direction: column;
+         
+        }
+        .con2-1{
+            margin-left: 20px;
+             margin-top: 70px;
+        }
+        .con2-2 img{
+            width: 140px;
+            margin: 20px;
+            padding-left: 5px;
+            padding-top: 10px;
+        }
+        .con2-text{
+            margin-left: 20px;
+            margin-top: 40px;
+            width: 90%;
+        }
+
+        /*----dish section----*/
+       .sec3{
+        margin-top: 300px;
+       }
+.box{
+    flex-direction: column;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.box-a{
+    margin-left: 10px;
+     margin-top: 0px;
+padding: 5px;
+padding-top: 0px;
+width: 60%;
+}
+.box-b{
+    margin-left: 10px;
+    padding: 5px;
+    width: 60%;
+
+}
+/*------*/
+.sec5{
+    margin-top: 200px;
+}
+        
+        /*---client section---*/
+        .our-body{
+            flex-direction: column;
+            margin-top: 0px;
+            padding-top: 0px;
+        }
+        .our-icon{
+            margin-left: 150px;
+            padding: 5px;
+         }
+        
+        .our-about{
+                  width: 90%;
+                  margin-left: 0px;
+                 padding-left: 0px;
+             } 
+ /* -----------client-section-------------- */
+      .client-about{
+        flex-direction: column;
+        padding-top: 0px;
+      }
+      .client-second{
+        margin-top:40px;
+        margin-left: 0px;
+      }
+      .client-third{
+        margin-top:40px;
+        margin-left: 0px;
+      }
+
+
+/* ---------------contact us------------- */
+#contact{
+    margin-top: 340px;
+}
+.details{
+    flex-direction: column;
+}
+.contact-in{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.contact-form{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+/*---------footter--------*/
+
+.nav-footer {
+    height: auto;
+    margin-top: 160px;
+    margin-bottom: 20px;
+}
+
+.coner {
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+}
+
+.coner img {
+    margin-left: 100px;
+    height: 80px;
+    width: 100px;
+}
+
+.coner ul {
+
+    margin-right: 0;
+    margin-top: 10px;
+}
+
+.coner ul li a {
+    font-size: 13px;
+    padding: 0;
+    font-weight: 500;
+
+}
+.foot {
+    flex-direction: column;
+}
+
+.foot-head {
+    margin-bottom: 90px;
+}
+
+.foot p {
+
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+.foot-icon {
+    margin-bottom: 10px;
+    margin-left: 100px;
+    font-size: 15px;
+
+}
+
+
+}
